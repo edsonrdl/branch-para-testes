@@ -1,5 +1,7 @@
-console.log("olá mundo ");
-console.log("tudo bem ?");
+console.log("tudo be");
+console.log("tudo be");
+console.log("tudo be");
+
 
 console.log("2?");
 

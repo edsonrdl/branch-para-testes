@@ -1,3 +1,3 @@
-console.log("01 funcionou ");
-
-
+console.log("tudo be");
+console.log("tudo be");
+console.log("tudo be");
