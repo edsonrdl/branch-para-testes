@@ -1,4 +1,8 @@
-console.log("teste 01 funcionou ");
-console.log("teste 02?");
+console.log("olá mundo ");
+console.log("tudo bem ?");
 
-console.log("teste 03?");
+console.log("2?");
+
+
+
+console.log("2");
